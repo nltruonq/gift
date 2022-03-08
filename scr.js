@@ -40,6 +40,12 @@ btn.onclick = function(e) {
         titleCard = `Tặng ${nameGirl}`;
         contentCard = `Chúc bạn ${nameGirl} 8/3, tay ôm nhiều hoa, giỏ đựng đầy quà, khỏi lo việc nhà, được đi chơi xa, ăn uống thả ga, tiền không phải trả, nói năng rôm rả, cười tươi như hoa.`;
     }
+    else if (nameGirl=='Hang'||nameGirl=='hang'||nameGirl=='HANG') {
+        nameGirl ='Hằng'
+        giftImage = 'https://scontent.fsgn3-1.fna.fbcdn.net/v/t1.6435-9/178662647_1606930762810647_6505447956367222740_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=174925&_nc_ohc=evh0NCHkC1IAX8A30OY&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT_jrf7w8u874Vio99WKJMSzzMnx6J9U-nAL0p-Pf1VDbg&oe=624DD674'
+        titleCard = `Tặng ${nameGirl}`;
+        contentCard = `Chúc bạn ${nameGirl} 8/3, tay ôm nhiều hoa, giỏ đựng đầy quà, khỏi lo việc nhà, được đi chơi xa, ăn uống thả ga, tiền không phải trả, nói năng rôm rả, cười tươi như hoa.`;
+    }
     else {
         giftImage = 'https://jooinn.com/images/gift-67.jpg'
         titleCard = `Tặng ${nameGirl}`;
