@@ -1,5 +1,5 @@
 var nameGirl = 'Lisa';
-var giftUrl = '';
+var giftUrl = ''; 
 var eventName = 'Chúc Mừng 8/3';
 var titleCard = `Tặng ${nameGirl}`;
 var contentCard = `Chúc bạn ${nameGirl} 8/3, tay ôm nhiều hoa, giỏ đựng đầy quà, khỏi lo việc nhà, được đi chơi xa, ăn uống thả ga, tiền không phải trả, nói năng rôm rả, cười tươi như hoa.`;
